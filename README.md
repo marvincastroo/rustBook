@@ -32,3 +32,7 @@ Check if it compiles
 ```
 cargo check
 ```
+Get all cargo documentation
+```
+cargo doc --open
+```
